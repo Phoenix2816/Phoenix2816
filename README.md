@@ -4,7 +4,7 @@
 </div>
 <div id="badges">
   <a href="https://www.codewars.com/users/Phoenix2816">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/odewars-red?logo=codewars)" alt="Codewars Badge"/>
+    <img src="https://img.shields.io/badge/odewars-red?logo=codewars" alt="Codewars Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Phoenix2816&style=flat-square&color=blue" alt=""/>
